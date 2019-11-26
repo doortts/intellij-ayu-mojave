@@ -1,13 +1,18 @@
 <scheme name="Ayu-dark me" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-13T12:38:45</property>
+    <property name="created">2019-11-26T15:17:30</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-11-13T12:38:57</property>
+    <property name="modified">2019-11-26T15:17:37</property>
     <property name="originalScheme">Ayu-dark me</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="D2Coding" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="b2c847" />
+    <option name="ADDED_LINES_COLOR" value="34b437" />
     <option name="CARET_COLOR" value="ffcc66" />
     <option name="CARET_ROW_COLOR" value="37383c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f1419" />
@@ -15,11 +20,11 @@
     <option name="GUTTER_BACKGROUND" value="292a2f" />
     <option name="INDENT_GUIDE" value="323232" />
     <option name="LINE_NUMBERS_COLOR" value="bfbab0" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="MODIFIED_LINES_COLOR" value="e2b83d" />
     <option name="SELECTED_INDENT_GUIDE" value="da6544" />
     <option name="SELECTION_BACKGROUND" value="3366aa" />
     <option name="WHITESPACES" value="252d33" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="713b8d" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="dde580" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -781,8 +786,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="5ccfe6" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1651,7 +1655,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c7c7ff" />
+        <option name="FOREGROUND" value="eed600" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
@@ -1731,8 +1735,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="e3e3ff" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="5ccfe6" />
       </value>
     </option>
     <option name="YAML_COMMENT">
